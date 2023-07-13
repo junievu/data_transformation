@@ -1,0 +1,117 @@
+&nbsp;
+
+<style>
+    .tools-row {<br />
+      display: flex;<br />
+      justify-content: center;<br />
+      align-items: center;<br />
+      margin-bottom: 20px;<br />
+    }<br />
+    .tool-item {<br />
+      text-align: center;<br />
+      margin-right: 20px;<br />
+    }<br />
+  </style>
+
+&nbsp;
+<div style="font-family: 'Arial', sans-serif; background-color: #f1f1f1; color: #444444;">
+<div style="max-width: 1200px; margin: 0 auto; padding: 40px; background-color: #ffffff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+<div style="text-align: center;"><img style="width: 200px; border-radius: 50%; margin-bottom: 20px;" src="path/to/profile-picture.jpg" alt="Profile Picture" />
+<h1 style="font-size: 28px; font-weight: bold; margin-bottom: 10px;">Vu Thi Thuy Dung</h1>
+<h2 style="font-size: 20px; font-weight: normal; margin-bottom: 20px;">Business Intelligence Analyst Lead</h2>
+<div style="font-size: 16px;">
+<ul style="padding: 0; margin: 0; list-style-type: none; text-align: center;">
+ 	<li>Email: vuthithuydungg@gmail.com</li>
+ 	<li>Phone: +84 967 385 008</li>
+</ul>
+</div>
+</div>
+<h3 style="font-size: 20px; font-weight: bold; margin-bottom: 10px;">About Me</h3>
+<p style="margin: 0; line-height: 1.5; text-align: justify;">Collaborative and technically-minded business intelligence analyst with 5 years of experience. Eager to support the ever-present need for efficient business processes. With a strong understanding of the various operations within a business. I have contributed my analytical skills to push for growth in businesses and achieve their strategic goals.</p>
+
+<h3 style="font-size: 20px; font-weight: bold; margin-bottom: 10px;">Experience</h3>
+<div style="margin-bottom: 20px;">
+<h4 style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Business Intelligence Analyst Lead</h4>
+<h5 style="font-size: 16px; font-weight: normal; margin-bottom: 10px; color: #888888;">Shopee - January 2023 to Present</h5>
+<ul style="padding-left: 20px; margin: 0; list-style-type: disc;">
+ 	<li>Lead a team of Business Intelligence Analysts responsible for informing platform strategy and growth models.</li>
+ 	<li>Conducted hypothesis generation and root cause analysis on data trends.</li>
+ 	<li>Provided active consultation to stakeholder managers from Business Development.</li>
+</ul>
+</div>
+<div style="margin-bottom: 20px;">
+<h4 style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Senior Business Intelligence Analyst</h4>
+<h5 style="font-size: 16px; font-weight: normal; margin-bottom: 10px; color: #888888;">Shopee - November 2021 to December 2022</h5>
+<ul style="padding-left: 20px; margin: 0; list-style-type: disc;">
+ 	<li>Provided guidance and oversight as a Senior Business Intelligence Analyst.</li>
+ 	<li>Ensured smooth cooperation within the team to achieve key performance objectives.</li>
+ 	<li>Was primarily in charge of two clusters of the platform: Fashion and Lifestyle.</li>
+</ul>
+</div>
+<div style="margin-bottom: 20px;">
+<h4 style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Senior Business Intelligence Analyst</h4>
+<h5 style="font-size: 16px; font-weight: normal; margin-bottom: 10px; color: #888888;">R1 Concepts Inc. - February 2020 to November 2021</h5>
+<ul style="padding-left: 20px; margin: 0; list-style-type: disc;">
+ 	<li>Successfully developed and deployed a bespoke BI system with intuitive data integration and clear visualizations.</li>
+ 	<li>Contributed to optimizing business operations, sales performance, and resource allocation.</li>
+</ul>
+</div>
+<div style="margin-bottom: 20px;">
+<h4 style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Data Analyst</h4>
+<h5 style="font-size: 16px; font-weight: normal; margin-bottom: 10px; color: #888888;">Home Credit - April 2019 to February 2020</h5>
+<ul style="padding-left: 20px; margin: 0; list-style-type: disc;">
+ 	<li>Built a Tableau alert and monitoring system for the underwriting department.</li>
+ 	<li>Improved performance of data mart and enabled reliable data mining and analysis.</li>
+</ul>
+</div>
+<div style="margin-bottom: 20px;">
+<h4 style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Strategy Business Planning Assistant</h4>
+<h5 style="font-size: 16px; font-weight: normal; margin-bottom: 10px; color: #888888;">Wilmar International - April 2017 to March 2019</h5>
+<ul style="padding-left: 20px; margin: 0; list-style-type: disc;">
+ 	<li>Managed stock position and sizing across warehouses, optimizing costs and margins.</li>
+ 	<li>Implemented new technology that improved individual productivity by 300%.</li>
+</ul>
+</div>
+<h3 style="font-size: 20px; font-weight: bold; margin-bottom: 10px;">Business Intelligence Tools</h3>
+<div class="tools-row">
+<div class="tool-item"><a style="text-decoration: none;" href="path/to/power-bi-project">
+<img style="width: 60px; height: 60px; margin-bottom: 5px;" src="https://junievu.com/pbi/" alt="Power BI" />                                                                         </a><a href="path/to/tableau-project"><img style="width: 60px; height: 60px; margin-bottom: 5px;" src="https://junievu.com/wp-content/uploads/2023/07/image.png" alt="Tableau" /></a><a style="text-decoration: none;" href="path/to/power-bi-project">     </a>
+<div>Microsoft Power BI                                                       Tableau</div>
+</div>
+<div class="tool-item">
+
+&nbsp;
+
+</div>
+</div>
+<h3 style="font-size: 20px; font-weight: bold; margin-bottom: 10px; text-align: left;">MS Office &amp; Programming Languages</h3>
+<div class="tools-row">
+<div class="tool-item"><a style="text-decoration: none;" href="path/to/excel-power-query-project">
+<img style="width: 60px; height: 60px; margin-bottom: 5px;" src="https://junievu.com/excel/" alt="MS Excel &amp; Power Query" /></a>
+<div>MS Excel &amp; Power Query</div>
+&nbsp;
+
+</div>
+<div class="tool-item"><a style="text-decoration: none;" href="path/to/sql-project">
+<img style="width: 60px; height: 60px; margin-bottom: 5px;" src="https://junievu.com/sql/" alt="SQL" /></a>
+<div>SQL</div>
+&nbsp;
+
+</div>
+<div class="tool-item"><a style="text-decoration: none;" href="path/to/python-project">
+<img style="width: 60px; height: 60px; margin-bottom: 5px;" src="https://junievu.com/python/" alt="Python" /></a>
+<div>Python</div>
+&nbsp;
+
+</div>
+</div>
+<h3 style="font-size: 20px; font-weight: bold; margin-bottom: 10px;">Education and Awards</h3>
+<ul style="padding-left: 20px; margin: 0; list-style-type: disc;">
+ 	<li>New Managers Programme - Shopee (May, 2023)</li>
+ 	<li>Foundations of Project Management - Google (September, 2022)</li>
+ 	<li>Bachelor of Economic - University of Economics, Ho Chi Minh City (2013 - 2017)</li>
+ 	<li>Light Your Hope Scholarship - Full Scholarship (2013 - 2017)</li>
+</ul>
+</div>
+</div>
+&nbsp;
